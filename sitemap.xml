@@ -4,18 +4,10 @@
 
   <!-- トップページ -->
   <url>
-    <loc>https://freedom-wind-orchestra.github.io/official-page/#/</loc>
+    <loc>https://freedom-wind-orchestra.github.io/official-page/</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-
-  <!-- メディアページなど他ページがある場合 -->
-  <url>
-    <loc>https://freedom-wind-orchestra.github.io/official-page/#/concert</loc>
-    <lastmod>2025-11-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 
 </urlset>
