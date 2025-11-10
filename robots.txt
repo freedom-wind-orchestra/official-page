@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://freedom-wind-orchestra.github.io/official-page/sitemap.xml
+Sitemap: https://freedom-wind-orchestra.github.io/official-page/sitemap.txt
