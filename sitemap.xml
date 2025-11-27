@@ -5,9 +5,41 @@
   <!-- トップページ -->
   <url>
     <loc>https://freedom-wind-orchestra.github.io/official-page/</loc>
-    <lastmod>2025-11-28</lastmod>
+    <lastmod>2025-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <!-- 団員募集 -->
+  <url>
+    <loc>https://freedom-wind-orchestra.github.io/official-page/information</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 楽団員の活動 -->
+  <url>
+    <loc>https://freedom-wind-orchestra.github.io/official-page/gallery</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- コンサート情報 -->
+  <url>
+    <loc>https://freedom-wind-orchestra.github.io/official-page/concert</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 過去のコンサート -->
+  <url>
+    <loc>https://freedom-wind-orchestra.github.io/official-page/old_concert</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 
 </urlset>
